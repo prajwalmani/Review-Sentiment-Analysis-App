@@ -12,7 +12,7 @@ import os.path
 
 
 app=dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])
-project_name= 'Sentiment Analysis'
+project_name= 'Review Sentiment Analysis'
 
 
 def ui():
