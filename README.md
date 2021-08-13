@@ -4,18 +4,19 @@ Sentiment analysis is the automated process of understanding the sentiment or op
 
 The application was built on python using dash for UI and for moduling I used sklearn 
 For testing out this app 
-* download the entire repository 
-* install the packages from requirements.txt
+*  Download the entire repository 
+*  Install the packages from requirements.txt
    ```
    pip install -r requirements.txt
    ```
-*  run the below command on windows command promopt or windows powershell
+*  Run the below command on windows command promopt or windows powershell
    ```
    cd copy_the_location_at_which_the_downloaded_repository 
    python dashui.py
    ```
-*  on the command promot a localhost web url is prompted copy that url to your desire web brower and the app loads 
-[<img src="https://img.youtube.com/HdBF8qIBKkw/maxresdefault.jpg" width="50%">](https://youtu.be/HdBF8qIBKkw)
+*  On the command promot a localhost web url is prompted copy that url to your desire web brower and the app loads 
 
+## Checkout the demo video on [Youtube.](https://www.youtube.com/watch?v=HdBF8qIBKkw)
+### Thank you for checking out the repo!
 
 
