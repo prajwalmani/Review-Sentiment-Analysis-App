@@ -15,7 +15,7 @@ For testing out this app
    python dashui.py
    ```
 *  on the command promot a localhost web url is prompted copy that url to your desire web brower and the app loads 
-[<img src="https://img.youtube.com/v=HdBF8qIBKkw/maxresdefault.jpg" width="50%">](https://youtu.be/v=HdBF8qIBKkw)
+[<img src="https://img.youtube.com/HdBF8qIBKkw/maxresdefault.jpg" width="50%">](https://youtu.be/HdBF8qIBKkw)
 
 
 
